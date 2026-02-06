@@ -10,4 +10,4 @@ All vanilla panoramas of *Java Edition*, *Bedrock Edition* and *Minecraft Educat
 Download it from the ["Release"](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/releases), open it with *Minecraft: Bedrock Edition*, and finally activate it as a Global Resource.
 
 # README in other languages
-[简体中文](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/blob/main/README.md)
+[简体中文](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/blob/main/README_zh-hans.md)
