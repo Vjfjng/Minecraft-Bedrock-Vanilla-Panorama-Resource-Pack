@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Minecraft Vanilla Panorama Pack",
+        "name": "Minecraft Panorama",
+        "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",  // please generate this
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Modules",
+            "type": "resources",
+            "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",  // please generate this
+            "version": [
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}
