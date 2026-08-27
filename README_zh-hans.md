@@ -6,8 +6,7 @@
 # 这里有哪些全景图？
 所有Java版、基岩版和教育版的全景图。
 
+**请注意：基岩版使用HDR格式存储灵动视效的全景图，而本资源包使用的是转换后的PNG格式，故可能存在效果不尽相同的情况。**
+
 # 如何使用？
 从[“Release”](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/releases)下载，并在Minecraft基岩版中打开，从设置处将其激活为全局资源。
-
-# 其他语言的README
-[English](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/blob/main/README.md)
