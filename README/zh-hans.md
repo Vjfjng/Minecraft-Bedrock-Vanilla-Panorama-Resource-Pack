@@ -10,3 +10,7 @@
 
 # 如何使用？
 从[“Release”](https://github.com/Vjfjng/Minecraft-Bedrock-Vanilla-Panorama-Resource-Pack/releases)下载，并在Minecraft基岩版中打开，从设置处将其激活为全局资源。
+
+# 许可协议
+CC BY-NC-SA 4.0 International
+部分信息来源于Minecraft Wiki。
